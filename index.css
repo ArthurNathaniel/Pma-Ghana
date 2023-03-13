@@ -6,6 +6,12 @@ body {
     text-decoration: none;
 
 }
+.headed{
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .top- {
     /* height: 30px; */
@@ -429,7 +435,7 @@ label{
         margin: 0 auto; 
     }
     .headed{
-        display: none;
+      display: none;
     }
     .hero-words {
         position: absolute;
